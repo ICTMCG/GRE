@@ -11,6 +11,7 @@ If you would like to access the *GRE* dataset, please fill out this [Google Form
 The GRE dataset is released only for academic research. Researchers from educational institutes are allowed to use this database freely for noncommercial purposes.
 
 **Reference Format:**
+```
 @inproceedings{10.1145/3664647.3681445,
     author = {Sun, Zhihao and Fang, Haipeng and Cao, Juan and Zhao, Xinying and Wang, Danding},
     title = {Rethinking Image Editing Detection in the Era of Generative AI Revolution},
@@ -22,3 +23,4 @@ The GRE dataset is released only for academic research. Researchers from educati
     booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
     series = {MM '24}
 }
+```
