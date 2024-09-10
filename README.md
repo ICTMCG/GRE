@@ -28,8 +28,21 @@ edit_method = edit_method_dict[edit_method_tag]
 ### Download
 If you would like to access the GRE dataset, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdftKYe2P9jtZkooX4Z_y4Ql8jJZKYieCzWbT6Pf_rxhysYhA/viewform?usp=sf_link). The download link will be sent to you once the form is accepted.
 
+#### Authentic Subset
+We select five authentic image datasets in the two most frequently tampered or edited scenarios: Daily Moment Snapshots (COCO, Flickr2k, DIV2k, SR-RAW) and News & Public Sentiment Visuals (VisualNews). These images also constitute the *authentic subset*. Due to copyright reasons, we did not incorporate these datasets into GRE. However, for your convenience, we provide the official (or unofficial) dataset download links in the table below.
+
+| Dataset              | Paper                                                        | Download URL                                                 |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| COCO2017             | Microsoft coco: Common objects in context                    | https://cocodataset.org/#download                            |
+| Flickr2K (HR images) | -                                                            | https://github.com/LimBee/NTIRE2017<br />[**UNOFFICIAL**] https://www.kaggle.com/datasets/daehoyang/flickr2k |
+| DIV2K (HR images)    | -                                                            | https://data.vision.ee.ethz.ch/cvl/DIV2K/                    |
+| SR-RAW               | Zoom to learn, learn to zoom                                 | https://drive.google.com/drive/folders/1FHhcrZjYvFm-zliziQIRVzYjlZUCikai |
+| VisualNews  (images) | Visual news: Benchmark and challenges in news image captioning | https://www.cs.rice.edu/~vo9/visualnews/                     |
+
+In addition, we also provide a small number of images from real scenes collected online, which can be downloaded separately [here](https://pan.baidu.com/s/1BSi_Zbz0-CQso6QDyhZ5Nw?pwd=j07j) and is also included in the download link you requested through the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdftKYe2P9jtZkooX4Z_y4Ql8jJZKYieCzWbT6Pf_rxhysYhA/viewform?usp=sf_link). Once again, these images are collected from the Internet and are only used for non-commercial purposes.
+
 ## License and Citation
-The GRE dataset is released only for academic research. Researchers from educational institutes are allowed to use this database freely for noncommercial purposes.
+The GRE dataset is released only for academic research. Researchers from educational institutes are allowed to use this database freely for non-commercial purposes.
 
 **Reference Format:**
 ```
