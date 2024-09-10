@@ -34,7 +34,7 @@ We select five authentic image datasets in the two most frequently tampered or e
 | Dataset              | Paper                                                        | Download URL                                                 |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | COCO2017             | Microsoft coco: Common objects in context                    | https://cocodataset.org/#download                            |
-| Flickr2K (HR images) | -                                                            | https://github.com/LimBee/NTIRE2017<br />[**UNOFFICIAL**] https://www.kaggle.com/datasets/daehoyang/flickr2k |
+| Flickr2K (HR images) | -                                                            | https://github.com/LimBee/NTIRE2017<br /> [**UNOFFICIAL**]https://www.kaggle.com/datasets/daehoyang/flickr2k |
 | DIV2K (HR images)    | -                                                            | https://data.vision.ee.ethz.ch/cvl/DIV2K/                    |
 | SR-RAW               | Zoom to learn, learn to zoom                                 | https://drive.google.com/drive/folders/1FHhcrZjYvFm-zliziQIRVzYjlZUCikai |
 | VisualNews  (images) | Visual news: Benchmark and challenges in news image captioning | https://www.cs.rice.edu/~vo9/visualnews/                     |
